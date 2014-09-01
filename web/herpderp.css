@@ -1,0 +1,16 @@
+body {
+  background-color: #000;
+  width: 100%; height: 100%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.2em;
+  margin: 0;
+  padding: 0;
+}
+
+#stage {
+		background-color: #404040;
+		position: absolute;
+		top: 0; left: 0;
+}
